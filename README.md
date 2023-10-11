@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is Emilia. I'm a front-end developer experienced in building interactive interfaces using React, Redux and TypeScript.  
 
-## My toolbox:
+### My toolbox:
 <img alt="html" src="https://github.com/emiliaweb/emiliaweb/assets/81705094/b32fdf57-61ee-427a-88be-787becb8146b" width="42">
 <img alt="css" src="https://github.com/emiliaweb/emiliaweb/assets/81705094/e77b25d8-aa61-478a-aaed-077766c5ea8e" width="42">
 <img alt="sass/scss" src="https://github.com/emiliaweb/emiliaweb/assets/81705094/8c26968d-e2d6-4ec0-ba0b-d6b55466f1fd" width="42">
