@@ -1,7 +1,7 @@
 # Hi there 👋  
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00F771&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Emilia;Front-end+developer;React%2C+Redux%2C+Typescript;Always+open+to+collaboration;Feel+free+to+contact+me+%3A)" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00F771&vCenter=true&random=false&width=435&lines=Front-end+developer;React%2C+Redux%2C+Typescript;Always+open+to+collaboration;Feel+free+to+contact+me+" alt="Typing SVG" /></a>
 </p>
 
 ### My name is Emilia. I'm a front-end developer experienced in building interactive interfaces using React, Redux and TypeScript.  
