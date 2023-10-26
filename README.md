@@ -1,8 +1,7 @@
 # Hi there 👋  
+![Picture-this_Creative-Commons-and-image-licensing_01](https://github.com/emiliaweb/emiliaweb/assets/81705094/c6fcec53-fae1-4a10-833f-3d8da654d02e)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00F771&vCenter=true&random=false&width=435&height=30&lines=Front-end+developer;React%2C+Redux%2C+Typescript;Always+open+to+collaboration;Feel+free+to+contact+me+" alt="Typing SVG" /></a>
-
-<h3>My name is Emilia. I'm a front-end developer experienced in building interactive interfaces using React, Redux and TypeScript. </h3>
+### My name is Emilia. I'm a front-end developer experienced in building interactive interfaces using React, Redux and TypeScript.
 
 ## My skills
 
