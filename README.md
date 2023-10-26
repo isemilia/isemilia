@@ -1,8 +1,12 @@
-# Hi there 👋
+# Hi there 👋  
 
-My name is Emilia. I'm a front-end developer experienced in building interactive interfaces using React, Redux and TypeScript.  
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00F771&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Emilia;Front-end+developer;React%2C+Redux%2C+Typescript;Always+open+to+collaboration;Feel+free+to+contact+me+%3A))](https://git.io/typing-svg)
+</p>
 
-# My skills
+### My name is Emilia. I'm a front-end developer experienced in building interactive interfaces using React, Redux and TypeScript.  
+
+## My skills
 
 ### Languages
 <p float="left">
