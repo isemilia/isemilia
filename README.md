@@ -1,5 +1,6 @@
 # Hi there 👋  
-![Picture-this_Creative-Commons-and-image-licensing_01](https://github.com/emiliaweb/emiliaweb/assets/81705094/c6fcec53-fae1-4a10-833f-3d8da654d02e)
+
+<img width="100%" alt="banner" src="https://github.com/emiliaweb/emiliaweb/assets/81705094/c6fcec53-fae1-4a10-833f-3d8da654d02e" />
 
 ### My name is Emilia. I'm a front-end developer experienced in building interactive interfaces using React, Redux and TypeScript.
 
