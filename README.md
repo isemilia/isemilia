@@ -3,7 +3,7 @@
 <img width="100%" alt="banner" src="https://github.com/emiliaweb/emiliaweb/assets/81705094/c6fcec53-fae1-4a10-833f-3d8da654d02e" />
 
 ## My name is Emilia  
-I'm a front-end developer experienced in building interactive interfaces using React, Redux and TypeScript. Aside from perfecting my front-end skills, I'm actively studying NodeJS and other technologies for back-end development. 
+I'm a front-end developer experienced in building interactive interfaces using React, Redux and TypeScript. Aside from perfecting my front-end skills, I'm actively studying NodeJS, Express, and other technologies for back-end development. 
 
 ## My skills
 
