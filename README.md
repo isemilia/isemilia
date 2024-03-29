@@ -5,7 +5,7 @@
 ## My name is Emilia  
 I'm a front-end developer experienced in building interactive interfaces using React, Redux and TypeScript. Aside from perfecting my front-end skills, I'm actively studying NodeJS, Express, and other technologies for back-end development. 
 
-## My skills
+## My main skills
 
 ### Languages
 <p float="left">
@@ -21,8 +21,8 @@ I'm a front-end developer experienced in building interactive interfaces using R
   <img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img alt="redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
   <img alt="mui" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
-  <img alt="tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img alt="storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
+  <img alt="styled components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 </p>
 
 ### Back End 
@@ -40,4 +40,12 @@ I'm a front-end developer experienced in building interactive interfaces using R
   <img alt="vs code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img alt="wordpress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">
   <img alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+</p>
+
+## Other stuff I am familiar with
+<p float="left">
+  <img alt="graphql" src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql">
+  <img alt="postgresql" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="nextjs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  <img alt="rollup" src="https://img.shields.io/badge/RollupJS-ef3335?style=for-the-badge&logo=rollup.js&logoColor=white">
 </p>
