@@ -52,3 +52,4 @@ Technologies I've worked with but are not my primary expertise.
 
 ## Some stats
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isemilia&size_weight=0.5&count_weight=0.5&langs_count=4&hide=html,scss,css,ejs&exclude_repo=runsmart&layout=compact)
+![Profile stats](https://github-readme-stats.vercel.app/api?username=isemilia&hide=contribs&show_icons=true&hide_rank=true&hide_title=true)
