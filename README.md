@@ -41,10 +41,14 @@ I'm a front-end developer experienced in building interactive interfaces using R
 </p>
 
 ## Other stuff I am familiar with
+Technologies I've worked with but are not my primary expertise.
 <p float="left">
   <img alt="graphql" src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql">
   <img alt="postgresql" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img alt="nextjs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
   <img alt="rollup" src="https://img.shields.io/badge/RollupJS-ef3335?style=for-the-badge&logo=rollup.js&logoColor=white">
   <img alt="docker" src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="vue" src="https://img.shields.io/badge/vue.js-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white" />
 </p>
+
+## Some stats
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isemilia&size_weight=0.5&count_weight=0.5&langs_count=4&hide=html,scss,css,ejs&exclude_repo=runsmart&layout=compact)
