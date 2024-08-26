@@ -41,7 +41,7 @@ I'm a front-end developer experienced in building interactive interfaces using R
 </p>
 
 ## Other stuff I am familiar with
-Technologies I've worked with but are not my primary expertise.
+Technologies I have worked with
 <p float="left">
   <img alt="graphql" src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql">
   <img alt="postgresql" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
