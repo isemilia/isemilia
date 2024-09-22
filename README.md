@@ -1,7 +1,7 @@
 # Hi there 👋  
 
 <strong>My name is Emilia. </strong> 
-I'm a front-end developer experienced in building interactive interfaces using React, Redux and TypeScript. Aside from perfecting my front-end skills, I'm actively studying NodeJS, Express, and other technologies for back-end development. 
+I'm a front-end developer experienced in building interactive interfaces using React, Redux and TypeScript. Aside from perfecting my front-end skills, I'm actively studying NodeJS, Express, and other technologies for back-end development. I love building clean, responsive designs and am always looking to improve my skills.
 
 ## My main skills
 
@@ -21,6 +21,7 @@ I'm a front-end developer experienced in building interactive interfaces using R
   <img alt="mui" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
   <img alt="storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
   <img alt="styled components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  <img alt="vue" src="https://img.shields.io/badge/vue.js-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white" />
 </p>
 
 ### Back End 
@@ -47,7 +48,6 @@ Technologies I have worked with
   <img alt="postgresql" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <img alt="rollup" src="https://img.shields.io/badge/RollupJS-ef3335?style=for-the-badge&logo=rollup.js&logoColor=white">
   <img alt="docker" src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="vue" src="https://img.shields.io/badge/vue.js-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white" />
 </p>
 
 ## Some stats
