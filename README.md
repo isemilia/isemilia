@@ -1,7 +1,7 @@
 # Hi there 👋  
 
 <strong>My name is Emilia. </strong> 
-I'm a front-end developer experienced in building interactive interfaces using React, Redux and TypeScript. Aside from perfecting my front-end skills, I'm actively studying NodeJS, Express, and other technologies for back-end development. I love building clean, responsive designs and am always looking to improve my skills.
+I'm a front-end developer experienced in building interactive interfaces using React, Redux and TypeScript. I love building clean, responsive designs and am always looking to improve my skills.
 
 ## My main skills
 
@@ -41,8 +41,7 @@ I'm a front-end developer experienced in building interactive interfaces using R
   <img alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
-## Other stuff I am familiar with
-Technologies I have worked with
+### Other stuff I am familiar with
 <p float="left">
   <img alt="graphql" src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql">
   <img alt="postgresql" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
