@@ -1,7 +1,7 @@
 # Hi there 👋  
 
 <strong>My name is Emilia. </strong> 
-I'm a front-end developer experienced in building interactive interfaces using React, Redux, and TypeScript, and I'm currently focused on perfecting my NextJS skills. I love building clean, responsive designs and am always looking to improve my skills.
+I'm a front-end developer experienced in building interactive interfaces using React, Redux, and TypeScript. Currently, I’m focused on refining my skills in Next.js. I have a passion for crafting clean, responsive designs and am always eager to enhance my expertise and tackle new challenges.
 
 ## My main skills
 
