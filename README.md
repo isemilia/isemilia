@@ -50,7 +50,3 @@
   <img alt="rollup" src="https://img.shields.io/badge/RollupJS-ef3335?style=for-the-badge&logo=rollup.js&logoColor=white">
   <img alt="docker" src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-
-## Some stats
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isemilia&size_weight=0.5&count_weight=0.5&langs_count=4&hide=html,scss,css,ejs&exclude_repo=runsmart&layout=compact)
-![Profile stats](https://github-readme-stats.vercel.app/api?username=isemilia&hide=contribs&show_icons=true&hide_rank=true&hide_title=true)
