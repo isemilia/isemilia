@@ -1,6 +1,6 @@
 # Hi there 👋  
 
-<strong>My name is Emilia.</strong> I'm a front-end developer with experience in React, TypeScript, and Next.js. I love building clean, responsive interfaces and am always eager to learn, improve, and take on new challenges.
+<strong>My name is Emilia.</strong> I'm a frontend developer with 4+ years of experience working with React, TypeScript, and Next.js. I have worked on CRM and HRM systems, marketplaces, and internal tools, focusing on clean and maintainable code.
 
 ## My main skills
 
